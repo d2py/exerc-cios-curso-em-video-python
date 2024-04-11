@@ -1,2 +1,2 @@
 # exercícios-curso-em-video-python
- Sequencia de exercios em python if, else, lista, dicionario, tupla, tratamento de erro
+ Sequência de exercícios em python if, else, lista, dicionario, tupla, funções, modularização e tratamento de erro excessões.
