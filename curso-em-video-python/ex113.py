@@ -28,10 +28,10 @@ def leiaInt(msg):
             return n
 
 
-def leiafloat(msg):
+def leiafloat(ms):
     while True:
         try:
-            n = float(input(msg))
+            n = float(input(ms))
 
         except (ValueError, TypeError):
             print('ERRO: por favor digite um valor inteiro válido.')
