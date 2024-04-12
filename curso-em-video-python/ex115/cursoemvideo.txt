@@ -1,0 +1,4 @@
+Ana;41
+Pedro;22
+Paulo;95
+Jose;55
